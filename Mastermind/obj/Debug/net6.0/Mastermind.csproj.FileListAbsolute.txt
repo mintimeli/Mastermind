@@ -1,0 +1,15 @@
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.exe
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.deps.json
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.runtimeconfig.json
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.dll
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\ref\Mastermind.dll
+C:\Users\fergu\source\repos\Mastermind\Mastermind\bin\Debug\net6.0\Mastermind.pdb
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.csproj.AssemblyReference.cache
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.AssemblyInfo.cs
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.dll
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\ref\Mastermind.dll
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.pdb
+C:\Users\fergu\source\repos\Mastermind\Mastermind\obj\Debug\net6.0\Mastermind.genruntimeconfig.cache
